@@ -1,5 +1,3 @@
-![274933481-9965d247-e8f6-4269-b0d5-c9fa362b2eb0](https://github.com/VIKASHAR/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405655/f4e8ad47-0fdd-44ff-9c9e-03de9a4df9f6)# Implementation-of-Linear-Regression-Using-Gradient-Descent
-
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
